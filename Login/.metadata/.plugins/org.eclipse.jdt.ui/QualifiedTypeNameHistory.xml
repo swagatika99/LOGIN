@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
+<fullyQualifiedTypeName name="com.cg.repository.UserRepository"/>
+<fullyQualifiedTypeName name="com.cg.entity.User"/>
+<fullyQualifiedTypeName name="com.cg.entity.Role"/>
+<fullyQualifiedTypeName name="com.cg.dto.UserRegistrationDto"/>
+<fullyQualifiedTypeName name="com.cg.service.UserService"/>
+</qualifiedTypeNameHistroy>
